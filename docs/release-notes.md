@@ -12,7 +12,7 @@
  * Handling reboot after new kernel is installed
  * [Added support for remote execution (execute playbooks on your laptop)](remote-execution.md)
  * Added `install_config_capabilities` configuration
-
+ * Added Rocky Linux 9 support
 
 
 ## 2022-06-19
